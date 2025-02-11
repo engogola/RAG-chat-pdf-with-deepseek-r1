@@ -1,8 +1,8 @@
 # RAG-chat-pdf-with-deepseek-r1
 This is a RAG  application that allows users to upload PDF documents and interact with them through a chatbot UI .
 the system uses ChromaDB DB  to store and retrieve info as well as accurate question answering and advance embeddings models.
-# FEATURES
-# .PDF UPLOAD
+# features 
+# PDF UPLOAD
 upload one or multiple PDF documents to enable Q-A
 # RAG Workflow
 Combimnes retrieval and generation
